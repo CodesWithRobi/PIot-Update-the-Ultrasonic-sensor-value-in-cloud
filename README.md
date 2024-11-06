@@ -125,6 +125,7 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 ![ESP32-Ultrasonic-Sensor-Wiring-Fritzing-Diagram](https://github.com/user-attachments/assets/70f3b3b8-771e-4ac5-a493-991b606ad79a)
+![WhatsApp Image 2024-11-06 at 10 19 55_90096b2e](https://github.com/user-attachments/assets/4b66ceaa-16a4-4c5a-a6af-78e231d76724)
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/e5acb877-3a1a-45c1-9e8a-4cd25fdd2955)
